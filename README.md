@@ -1,2 +1,2 @@
 # hey-world
-description to be filled later
+description changed in readme-edits branch
